@@ -1,0 +1,85 @@
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+body, #tituloPrincipal {
+    padding: 0;
+    margin: 0;
+}
+
+
+#areaTitulo {
+    height: 200px;
+    background-color: skyblue;
+    position: relative;
+}
+
+#areaTabla {
+    background-color: rgb(233, 233, 233);
+    padding: 60px 25%;
+}
+
+#areaContenido {
+    background-color: rgb(159, 195, 159);
+    padding: 20px 25%;
+}
+
+#areaFinal {
+    background-color: antiquewhite;
+    position: relative;
+    height: 200px;
+}
+
+#tituloPrincipal {
+    text-align: center;
+    font-size: 50px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.museo {
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.infoContenido {
+    padding-right: 30px;
+}
+
+.imgContenido {
+    padding-left: 30px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+td {
+    padding: 20px;
+}
+
+#externo {
+    position: absolute;
+    left: 25%;
+    font-size: 30px;
+    margin-top: 80px;
+}
+
+table {
+    border: 1px solid skyblue;
+}
+thead {
+    background-color: skyblue;
+}
+tbody {
+    background-color: rgb(206 198 198 / 40%);
+}
+  
+
